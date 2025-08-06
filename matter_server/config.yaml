@@ -2,7 +2,7 @@
 version: 8.0.0
 slug: matter_server
 name: Matter Server
-description: Matter WebSocket Server for Home Assistant Matter support.
+description: Composant Matter pour produit TQ10.
 url: >-
   https://github.com/home-assistant/addons/tree/master/matter_server
 arch:
