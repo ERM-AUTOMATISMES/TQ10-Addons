@@ -2,7 +2,7 @@
 version: 2.13.0
 slug: openthread_border_router
 name: OpenThread Border Router
-description: OpenThread Border Router add-on
+description: Module complémentaire OpenThread Border Router pour produit TQ10.
 url: >-
   https://github.com/home-assistant/addons/tree/master/openthread_border_router
 arch:
